@@ -174,7 +174,7 @@ export default function Home() {
                 <p className="text-muted-foreground">Fully responsive Netflix-inspired streaming platform using React and Firebase. Features Firebase Authentication and dynamic movie fetching via TMDb API.</p>
                  <div className="flex flex-wrap gap-2">
                      <Button variant="link" size="sm" asChild className="p-0 h-auto text-accent">
-                        <Link href="https://subtle-dasik-c7e564.netlify.app/login/" target="_blank" rel="noopener noreferrer">
+                        <Link href="https://subtle-dasik-c7e564.netlify.app" target="_blank" rel="noopener noreferrer">
                             <MonitorPlay className="mr-1 h-4 w-4" /> Live
                         </Link>
                       </Button>
