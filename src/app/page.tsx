@@ -2,7 +2,7 @@ import { ThemeToggle } from '@/components/theme-toggle';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Separator } from '@/components/ui/separator';
 import { Button } from '@/components/ui/button';
-import { Mail, Github, Linkedin, Code, MonitorPlay } from 'lucide-react';
+import { Mail, Github, Linkedin, Code, MonitorPlay, Download } from 'lucide-react';
 import Link from 'next/link';
 
 export default function Home() {
@@ -43,6 +43,12 @@ export default function Home() {
                 <Button variant="outline" size="sm" asChild>
                   <Link href="https://www.linkedin.com/in/mammen-mathew/" target="_blank" rel="noopener noreferrer">
                     <Linkedin className="mr-2 h-4 w-4" /> LinkedIn
+                  </Link>
+                </Button>
+                 <Button variant="outline" size="sm" asChild>
+                   {/* Assuming CV is placed in the public folder */}
+                  <Link href="/Mammen_Mathew_CV.pdf" download="Mammen_Mathew_CV.pdf" target="_blank" rel="noopener noreferrer">
+                    <Download className="mr-2 h-4 w-4" /> Download CV
                   </Link>
                 </Button>
                 <span className="text-muted-foreground">+91 7559824707 | Kochi, Kerala, INDIA</span>
