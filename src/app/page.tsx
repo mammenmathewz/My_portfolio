@@ -31,17 +31,17 @@ export default function Home() {
                   </Link>
                 </Button>
                 <Button variant="outline" size="sm" asChild>
-                  <Link href="https://github.com/mammen-github" target="_blank" rel="noopener noreferrer">
+                  <Link href="https://github.com/mammenmathewz" target="_blank" rel="noopener noreferrer">
                     <Github className="mr-2 h-4 w-4" /> GitHub
                   </Link>
                 </Button>
                 <Button variant="outline" size="sm" asChild>
-                    <Link href="https://leetcode.com/u/mammen-code/" target="_blank" rel="noopener noreferrer">
+                    <Link href="https://leetcode.com/u/Mammen_Mathew/" target="_blank" rel="noopener noreferrer">
                      <Code className="mr-2 h-4 w-4" /> LeetCode
                     </Link>
                 </Button>
                 <Button variant="outline" size="sm" asChild>
-                  <Link href="https://www.linkedin.com/in/mammen-mathew-40979428b" target="_blank" rel="noopener noreferrer">
+                  <Link href="https://www.linkedin.com/in/mammen-mathew/" target="_blank" rel="noopener noreferrer">
                     <Linkedin className="mr-2 h-4 w-4" /> LinkedIn
                   </Link>
                 </Button>
@@ -106,17 +106,17 @@ export default function Home() {
                 <p className="text-muted-foreground">A scalable B2B SaaS platform integrating job listings into company websites via an npm package. Features an admin dashboard, automated email notifications, real-time video interviews (WebRTC), and a collaborative code editor (Monaco, Yjs). Built with Clean Architecture, deployed across AWS, GCP, and Vercel with CI/CD.</p>
                 <div className="flex flex-wrap gap-2">
                   <Button variant="link" size="sm" asChild className="p-0 h-auto text-accent">
-                    <Link href="https://octaview.vercel.app/" target="_blank" rel="noopener noreferrer">
+                    <Link href="https://octaview.tech/" target="_blank" rel="noopener noreferrer">
                        <MonitorPlay className="mr-1 h-4 w-4" /> Live
                     </Link>
                   </Button>
                   <Button variant="link" size="sm" asChild className="p-0 h-auto text-accent">
-                    <Link href="https://github.com/mammen-github/OctaView" target="_blank" rel="noopener noreferrer">
+                    <Link href="https://github.com/Octaview-b2b" target="_blank" rel="noopener noreferrer">
                       <Github className="mr-1 h-4 w-4" /> GitHub
                     </Link>
                   </Button>
                   <Button variant="link" size="sm" asChild className="p-0 h-auto text-accent">
-                     <Link href="https://www.npmjs.com/package/@mammen-package/octaview-client" target="_blank" rel="noopener noreferrer">
+                     <Link href="https://www.npmjs.com/package/octaview-client" target="_blank" rel="noopener noreferrer">
                         NPM
                      </Link>
                   </Button>
@@ -132,12 +132,12 @@ export default function Home() {
                  <p className="text-muted-foreground">Full-featured e-commerce platform using Node.js, Express.js, MongoDB, EJS, and Bootstrap. Includes admin dashboard with data visualization, Razorpay integration, wallet system, coupon management, and CMS for dynamic content.</p>
                   <div className="flex flex-wrap gap-2">
                       <Button variant="link" size="sm" asChild className="p-0 h-auto text-accent">
-                        <Link href="https://ecommerce-3l4k.onrender.com/" target="_blank" rel="noopener noreferrer">
+                        <Link href="https://aranoz.octaview.tech/" target="_blank" rel="noopener noreferrer">
                            <MonitorPlay className="mr-1 h-4 w-4" /> Live
                         </Link>
                       </Button>
                       <Button variant="link" size="sm" asChild className="p-0 h-auto text-accent">
-                        <Link href="https://github.com/mammen-github/Ecommerce-Express-Project" target="_blank" rel="noopener noreferrer">
+                        <Link href="https://github.com/mammenmathewz/ECOMMERCE_-PROJECT_ARANOZ--2" target="_blank" rel="noopener noreferrer">
                           <Github className="mr-1 h-4 w-4" /> GitHub
                         </Link>
                       </Button>
@@ -158,7 +158,7 @@ export default function Home() {
                         </Link>
                       </Button>
                       <Button variant="link" size="sm" asChild className="p-0 h-auto text-accent">
-                        <Link href="https://github.com/mammen-github/Loggasm" target="_blank" rel="noopener noreferrer">
+                        <Link href="https://github.com/mammenmathewz/Loggasm" target="_blank" rel="noopener noreferrer">
                             <Github className="mr-1 h-4 w-4" /> GitHub
                         </Link>
                       </Button>
@@ -174,12 +174,12 @@ export default function Home() {
                 <p className="text-muted-foreground">Fully responsive Netflix-inspired streaming platform using React and Firebase. Features Firebase Authentication and dynamic movie fetching via TMDb API.</p>
                  <div className="flex flex-wrap gap-2">
                      <Button variant="link" size="sm" asChild className="p-0 h-auto text-accent">
-                        <Link href="https://netflix-clone-f57d7.web.app/" target="_blank" rel="noopener noreferrer">
+                        <Link href="https://subtle-dasik-c7e564.netlify.app/login/" target="_blank" rel="noopener noreferrer">
                             <MonitorPlay className="mr-1 h-4 w-4" /> Live
                         </Link>
                       </Button>
                       <Button variant="link" size="sm" asChild className="p-0 h-auto text-accent">
-                        <Link href="https://github.com/mammen-github/netflix-clone" target="_blank" rel="noopener noreferrer">
+                        <Link href="https://github.com/mammenmathewz/Netflix-clone-react" target="_blank" rel="noopener noreferrer">
                           <Github className="mr-1 h-4 w-4" /> GitHub
                         </Link>
                       </Button>
@@ -195,12 +195,12 @@ export default function Home() {
                 <p className="text-muted-foreground">Progressive Web App (PWA) demonstrating the Stack Data Structure with the Tower of Hanoi puzzle. Optimized for offline access.</p>
                  <div className="flex flex-wrap gap-2">
                      <Button variant="link" size="sm" asChild className="p-0 h-auto text-accent">
-                        <Link href="https://tower-of-hanoi-psi-five.vercel.app/" target="_blank" rel="noopener noreferrer">
+                        <Link href="https://threetowers.netlify.app/" target="_blank" rel="noopener noreferrer">
                            <MonitorPlay className="mr-1 h-4 w-4" /> Live
                         </Link>
                       </Button>
                       <Button variant="link" size="sm" asChild className="p-0 h-auto text-accent">
-                        <Link href="https://github.com/mammen-github/TowerOfHanoi" target="_blank" rel="noopener noreferrer">
+                        <Link href="https://github.com/mammenmathewz/Tower_of_hanoi_pwa" target="_blank" rel="noopener noreferrer">
                           <Github className="mr-1 h-4 w-4" /> GitHub
                         </Link>
                       </Button>
@@ -275,7 +275,7 @@ export default function Home() {
       </main>
 
       <footer className="mt-16 pt-8 border-t text-center text-muted-foreground text-sm">
-        © {new Date().getFullYear()} Mammen Mathew. Built with Next.js and Tailwind CSS.
+        © 2025 Mammen Mathew. Built with Next.js and Tailwind CSS.
       </footer>
     </div>
   );
